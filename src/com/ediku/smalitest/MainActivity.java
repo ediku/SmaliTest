@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		
+		System.out.println("新加的一行develop");
 		String a1="aa";
 		  String a2="bb";
 		  a1=a2;
