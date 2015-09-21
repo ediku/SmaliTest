@@ -12,10 +12,11 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		System.out.println("新加的一行develop");
+		System.out.println("新加的一行develop2");
 		String a1="aa";
 		  String a2="bb";
 		  a1=a2;
-		  
+		     
 		  
 		  Class1 class1= new Class1();
 		  class1.staticName="ediku2";
