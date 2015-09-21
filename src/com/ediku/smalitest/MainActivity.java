@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		System.out.println("新加的一行develop");
 		System.out.println("新加的一行develop2");
+		System.out.println("新加的一行develop222");
 		String a1="aa";
 		  String a2="bb";
 		  a1=a2;
